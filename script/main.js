@@ -1,2 +1,2 @@
 
-document.write("Hey")
+//Scripts
