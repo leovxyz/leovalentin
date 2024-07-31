@@ -1,2 +1,2 @@
 # leo-valentin
-personal website
+Simple personal website, will update more later
